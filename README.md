@@ -1,2 +1,5 @@
-# File-Renamer
-Python Script Used to Rename Files in a certain directory
+# File Renamer
+
+Python script to rename jpeg files in a directory.
+
+Customize to rename other types of files and folders.
